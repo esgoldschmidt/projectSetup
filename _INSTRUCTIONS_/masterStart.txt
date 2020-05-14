@@ -19,12 +19,12 @@ Set Up Live React App deployed on GitHub
 
 Early React Steps
 1.	replace favicon.ico  |  ./public/favicon.ico
-2. 	add Google Fonts  |  index.html
+2. 	add Google Fonts | liked examples: Quicksand and Montserrat |  index.html
 3.	edit <title>  |  index.html
 4. 	create /components  |  ./src
 5.	create /App and move App.css, App.js  |  ./src
 6. 	update moved paths to App/App.css and App/App.js  |  index.js 
 7. 	create new component ie. /Home, Home.css.js, Home.js  |  ./src/components
 8.	npm install react-router-dom  |  adds script to allow multipage react app  |  terminal
-
+9. 	duplicate starter copy for App.js, Home.js, React.js |  /project_setup
  
